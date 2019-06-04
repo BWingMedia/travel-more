@@ -1,0 +1,14 @@
+{
+  "name": "travel-more",
+  "version": "1.0.0",
+  "description": "open README.md",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "start": "gulp"
+  },
+  "author": "BWingMedia",
+  "license": "ISC"
+}
