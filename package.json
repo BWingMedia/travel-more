@@ -1,7 +1,7 @@
 {
   "name": "travel-more",
   "version": "1.0.0",
-  "description": "open README.md",
+  "description": "Travel website template for my portfolio.",
   "main": "index.js",
   "directories": {
     "doc": "docs"
@@ -9,6 +9,14 @@
   "scripts": {
     "start": "gulp"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BWingMedia/travel-more.git"
+  },
   "author": "BWingMedia",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BWingMedia/travel-more/issues"
+  },
+  "homepage": "https://github.com/BWingMedia/travel-more#readme"
 }
