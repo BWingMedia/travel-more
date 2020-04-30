@@ -20,6 +20,6 @@
     "url": "git+https://github.com/BWingMedia/travel-more.git"
   },
   "dependencies": {
-    "jquery": "^3.4.1"
+    "jquery": "^3.5.0"
   }
 }
